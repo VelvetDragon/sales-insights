@@ -12,6 +12,8 @@ The Sales Insights dashboard is designed to visualize sales data and provide act
 - Filters for detailed analysis by product, region, and time period
 - Export options for sharing insights
 
+## Dashboard Video
+Watch the dashboard in action: [Sales Insights Dashboard Video](https://github.com/user-attachments/assets/f330c64c-b629-4891-8bb3-416895165a8e)
 ## Getting Started
 
 ### Prerequisites
