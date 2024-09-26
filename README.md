@@ -21,11 +21,7 @@ https://github.com/user-attachments/assets/ea1db632-821d-4f26-9e94-410b0c43c6e7
 
 ### Prerequisites
 
-- [Power BI Desktop]([https://powerbi.microsoft.com/en-us/desktop/](https://github.com/user-attachments/assets/f330c64c-b629-4891-8bb3-416895165a8e))
+- [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 - Access to the sales data source used in the dashboard
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sales-insights.git
