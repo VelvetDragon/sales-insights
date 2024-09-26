@@ -13,7 +13,10 @@ The Sales Insights dashboard is designed to visualize sales data and provide act
 - Export options for sharing insights
 
 ## Dashboard Video
-Watch the dashboard in action: [Sales Insights Dashboard Video](https://github.com/user-attachments/assets/f330c64c-b629-4891-8bb3-416895165a8e)
+Watch the dashboard in action: 
+
+https://github.com/user-attachments/assets/ea1db632-821d-4f26-9e94-410b0c43c6e7
+
 ## Getting Started
 
 ### Prerequisites
